@@ -1,6 +1,7 @@
 streamlit
-web3==6.10.0
+web3==5.31.1
+py-solc-x
 
 git add requirements.txt
-git commit -m "Fixed requirements.txt"
+git commit -m "Updated requirements.txt for Streamlit Cloud"
 git push origin main
