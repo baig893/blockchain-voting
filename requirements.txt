@@ -1,7 +1,6 @@
 streamlit
-web3
+web3==6.10.0
 
 git add requirements.txt
-git commit -m "Added requirements.txt"
+git commit -m "Fixed requirements.txt"
 git push origin main
-
