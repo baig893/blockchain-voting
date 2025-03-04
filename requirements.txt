@@ -1,11 +1,5 @@
 streamlit
 web3==5.31.1
 py-solc-x
-protobuf==4.25.2
+protobuf==3.19.5
 requests
-
-git add requirements.txt
-git commit -m "Fix deployment issues"
-git push origin main
-
-
