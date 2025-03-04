@@ -3,3 +3,8 @@ web3==5.31.1
 py-solc-x
 protobuf==3.19.5
 requests
+
+
+git add requirements.txt
+git commit -m "Fixed requirements.txt"
+git push origin main
